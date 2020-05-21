@@ -1,0 +1,9 @@
+name: Test
+main: de.Nickname.test.main.Main
+version: 1.0
+author: Nicknamenick
+
+commands:
+   heal
+    
+      
